@@ -14,6 +14,5 @@ output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am a classically trained data scientist living in the Mexico city. 
+Currently I work on the IPN. I love talking about dogs, bioinformatics, and street food.
